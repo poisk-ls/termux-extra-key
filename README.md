@@ -1,28 +1,12 @@
-<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/powered-by-oxygen.svg"> </a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+termux-extra-key+☣️)
 
-# <p align="center">termux-extra-key
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64035221/91631948-32689800-e9fb-11ea-8972-43a40c16e926.jpg">
-</p>
-<p align="center">Adding Extra Key in Termux
-<p align="center">
-<a href="https://github.com/poisk-ls"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
- <a href="https://paypal.me/buhayan"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
- <a href="https://github.com/poisk-ls/Termux-Extra-Key"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
-<a href="https://github.com/poisk-ls"><img title="GitHub version" src="https://img.shields.io/github/licensepoisk-ls/T-Remix?color=Brightgree" ></a>
-<a href="https://twitter.com/poisk-ls"><img alt="Instagram" src="https://img.shields.io/badge/twitter-poisk-ls-ff69b4"/></a>
- <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/poisk-ls/Termux-Extra-Key?style=social" ></a>
-</p>
-
-###### <p align="center"> *[**@buhayanjade**](https://www.instagram.com/buhayanjade/) ❤️*
----
 
 ### What is termux-extra-key?🤔
   Claims that it is one of the unique project that github has made special feature by adding extra button under your keyboard. help you to save time and type fast as possible simple and short project hope you like it then give it star.
 Hope you guys like this Project,then dont forget to or follow me for more..
 
 ### Installation process
-* `Commands` for termux
+* `Commands` for extra-key
 
 - termux-setup-storage
 - pkg update
@@ -36,9 +20,23 @@ Hope you guys like this Project,then dont forget to or follow me for more..
 - ls
 - chmod +x * or chmod +x poisk-ls.sh
 - bash poisk-ls.sh or sh poisk-ls.sh
-```
 
-* Single `Command` for termux
-```
-$ termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && git clone https://github.com/poisk-ls/termux-extra-key && ls && cd termux-extra-key && ls && chmod +x * && bash poisk-ls.sh
-```
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
+#### ____________________________________
+
+>**Follow for more 👇 https://github.com/poisk-ls**
+
+**OR**
+>**<p align="left">Connect with me:</p>**
+>**<p align="left">**
+><a href="https://twitter.com/poisk_ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poisk_ls" height="30" width="40" /></a>
+<a href="https://fb.com/speedy.mmsc80.thugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="speedy.mmsc80.thugs" height="30" width="40" /></a>
+<a href="https://instagram.com/buhayanjade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buhayanjade" height="30" width="40" /></a>
+><a href="https://discord.gg/jade-posk-ls#1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jade-posk-ls#1435" height="30" width="40" /></a>
+></p>
+>
+><a href="https://t.me/poisLs"><img src="https://img.shields.io/badge/telegram-poiskLs-blue.svg">
+
+####  ____________________________________
+![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
+#### ____________________________________
