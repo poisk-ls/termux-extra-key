@@ -29,17 +29,17 @@ echo
 clear
 }
 
-direct to the link
+direct_to_the_point
 
 sleep 4
 echo " "
 echo " "
 echo "           ← □■□■□■□■□■□■□■□■□■□■□■□ [★] Made by poisk-ls [★] □■□■□■□■□■□■□■□■□■□■□■□ → " | lolcat
 
-echo "                                  ___  ___    ___    /          ___"
-echo "                                  |__| |  | | |__  |/ __  |    |__ "
-echo "                                  |    |__| | ___| |\     |__  ___| "
-echo "                                                      \ "
+echo "                                  ___  ___    ___    /          ___"   | lolcat
+echo "                                  |__| |  | | |__  |/ __  |    |__ "   | lolcat
+echo "                                  |    |__| | ___| |\     |__  ___| "  | lolcat
+echo "                                                      \ "              | lolcst
 echo " "
 echo " "
 echo "           ← □■□■□■□■□■□■□■□■□■□■□■□ [★] Jade poisk-ls [★] □■□■□■□■□■□■□■□■□■□■□■□ → " | lolcat
