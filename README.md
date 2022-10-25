@@ -3,7 +3,7 @@
 
 ### What is termux-extra-key?🤔
   Claims that it is one of the unique project that github has made special feature by adding extra button under your keyboard. help you to save time and type fast as possible simple and short project hope you like it then give it star.
-Hope you guys like this Project,then dont forget to or follow me for more..
+Hope you guys like this Project,then don't forget to like or follow me for more..
 
 ### Installation process
 * `Commands` for extra-key
